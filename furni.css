@@ -1,0 +1,89 @@
+*{
+    text-align: center;
+    background-color:blanchedalmond;
+}
+.r1{
+    font-size: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:cadetblue;
+    border:10px dashed red;
+    width: 50%;
+    margin-left: 20rem;
+}
+.r2{
+    background: 5rem black;
+}
+.r3{
+
+    border: 10px;
+    background-color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 10%;
+    margin-left: 40rem;
+    outline: 10px black;
+    cursor: pointer;
+    margin-top: 25px;
+}
+ol{
+    list-style: none;
+    list-style-position: center;
+    text-align: center;
+}
+a:hover{
+    color: black;
+}
+ main .r4,.r7,.r10,.r13{
+    margin-right:50rem;
+}
+ main .r5{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    background: 10px  greenyellow;
+    width: 25%;
+    margin-left: 10rem;
+    text-align-last: center;
+    margin-top:0.5rem;
+    border: 2px dashed red;
+}
+main .r6,.r11,.r14{
+    border: 10px;
+    background-color: black ;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aliceblue;
+    margin-left: 40rem;
+    width: 10%;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 250x;
+}
+.r8,.r12,.r15{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    background: 10px  greenyellow;
+    width: 25%;
+    margin-left: 10rem;
+    text-align-last: center;
+    margin-top:0.5rem;
+    border: 2px dashed red;
+}
+ main .r9{
+    border: 10px;
+    background-color: black ;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aliceblue;
+    margin-left: 40rem;
+    width: 10%;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 250x;
+}
+.r16 {
+    border: 10px dashed blue;
+    background-color:black;
+    color: brown;
+}
+.r20{
+    background-color: antiquewhite;
+}
